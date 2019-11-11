@@ -1,1 +1,0 @@
-nessa pasta ficarão salvo seus desenhos do Gartic
