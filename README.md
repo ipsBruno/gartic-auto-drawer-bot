@@ -50,7 +50,7 @@ Ele vai processar imagem e em alguns segundos começa pintar ela.
 
 **5** - Para reiniciar o programa para pintar outro desenho aperta aperte CTRL + I e repita o processo a partir da etapa 2. A etapa 1 é configuração e só precisa ser feita apenas uma vez
 
-
+![Ibagem](https://i.imgur.com/NZcJH2h.png)
 ___
 
 **Dicas**
