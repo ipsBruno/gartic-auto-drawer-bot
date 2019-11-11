@@ -30,7 +30,7 @@ ____
 
 **Para usar ele abra o start.bat**
 
-1 - Na primeira execução do programa você deverá apertar ALT + X em cima dos ícones do Gartic. Os ícones são: lápis, quadro branco, ícone de paleta de cores, cruz da paleta de cores aquela que seleciona as cores, e por fim a barra de luminosidade da paleta de cores
+1 - Na primeira execução do programa você deverá apertar ALT + X  com o cursor do mouse em cima dos ícones do Gartic. Os ícones são: lápis, quadro branco, ícone de paleta de cores, cruz da paleta de cores aquela que seleciona as cores, e por fim a barra de luminosidade da paleta de cores
 
 
 Os números com as flechas em vermelho indicam onde vocÊ deve deixar o cursor do mouse cada vez que pressionar ALT+X, isso deve ser feito para o computador saber "onde fica" cada botão que ele deverá clicar ao fazer o desenho automaticamente
