@@ -33,6 +33,10 @@ ____
 1 - Na primeira execução do programa você deverá apertar ALT + X em cima dos ícones do Gartic. Os ícones são: lápis, quadro branco, ícone de paleta de cores, cruz da paleta de cores aquela que seleciona as cores, e por fim a barra de luminosidade da paleta de cores
 
 
+Os números com as flechas em vermelho indicam onde vocÊ deve deixar o cursor do mouse cada vez que pressionar ALT+X, isso deve ser feito para o computador saber "onde fica" cada botão que ele deverá clicar ao fazer o desenho automaticamente
+
+![Imagem do cursor](https://i.imgur.com/siMCwAi.png)
+
 2 - Pesquise no Google Imagens a imagem que você quer desenhar e use o programa chamado lightshot para selecionar seu clipart, após selecionar dê CTRL + C
 
 
@@ -55,7 +59,6 @@ ___
 
 **Dicas**
 1 - Sempre opte por imagens em preto e branco e com poucos pixels (imagens feitas em desenho a mão ou cliparts por exemplo)
-
 
 
 # Vídeo do funcionamento
