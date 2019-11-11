@@ -147,8 +147,15 @@ if os.path.exists('configs/barraY.log'):
     cruz_paleta[1] = ler_file('configs/cruzY.log')
     baixo_barra[0] = ler_file('configs/barraX.log')
     baixo_barra[1] = ler_file('configs/barraY.log')
+
+
+    winsound.Beep(1000, 200)
+    print('\n\n\nBOT INICIADO COM SUCESSO!\n\n\nPor Bruno Silva\n\nwww.brunodasilva.com\n\n\nCopie seu desenho e aperta CTRL + B\n\n')
+    keyboard.add_hotkey('ctrl+i', restart_app)
+
 else:
-    print ("Posicione o cursor em CIMA do LÁPIS e dê ALT+X")
+    print("\n\n\nANTES DE USAR CONFIGURE O BOT\n\n\n")
+    print ("Posicione o cursor em CIMA do LÁPIS e dê ALT+X\n\n\n")
     winsound.Beep(3000, 700)
     keyboard.add_hotkey('alt+x', on_triggered)
 
@@ -246,12 +253,6 @@ def on_triggered_screen():
             conta += 1
     input('Desenho completado!')
     restart_app()
-
-
-
-winsound.Beep(1000, 200)
-print('\n\n\nBOT INICIADO COM SUCESSO!\n\n\nPor Bruno Silva\n\nwww.brunodasilva.com\n\n\nCopie seu desenho e aperta CTRL + B\n\n')
-keyboard.add_hotkey('ctrl+i', restart_app)
 while not kb.is_pressed("ctrl+b"):
         continue
 on_triggered_screen()
