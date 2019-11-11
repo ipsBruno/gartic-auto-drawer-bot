@@ -161,14 +161,14 @@ else:
 
 
 def on_triggered_screen():
-    print("Imagem salva com sucesso!")
-    im = ImageGrab.grabclipboard()
     global notHaveFiles
-    filename =('cliparts/%s.png' %  str(uuid.uuid4()))
-    if notHaveFiles == 1:
+    if notHaveFiles == 0:
         winsound.Beep(600, 1000)
         print("Configure o BOT direito antes de dar CTRL + B")
         restart_app()
+    print("Imagem salva com sucesso!")
+    im = ImageGrab.grabclipboard()    
+    filename =('cliparts/%s.png' %  str(uuid.uuid4()))
     try:
         im.thumbnail((90,90), img.ANTIALIAS)
     except:
