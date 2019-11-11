@@ -33,7 +33,7 @@ ____
 **Para isso rode na pasta o prompt com seguinte: python bot.py**
 
 1 - Na primeira execução do programa você deverá apertar ALT + X  com o cursor do mouse em cima dos ícones do Gartic. Os ícones são: LAPIS, ÍCONE da PALETA, CANTO INFERIOR ESQUERDO DA PALETA DE CORES ABERTA, PONTO INFERIOR DA BARRA DE LUMINOSIDADE DA PALETA DE CORES
-
+![Ibagem](https://i.imgur.com/QXivErT.png)
 
 Os números com as flechas em vermelho indicam onde vocÊ deve deixar o cursor do mouse cada vez que pressionar ALT+X, isso deve ser feito para o computador saber "onde fica" cada botão que ele deverá clicar ao fazer o desenho automaticamente
 
