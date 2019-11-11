@@ -2,6 +2,8 @@
 # Hack Gartic [Auto Draw]
 
 **Requerimentos:**
+
+
 Python 3
 
 Lightshot
