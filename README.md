@@ -32,23 +32,23 @@ ____
 
 **Para isso rode na pasta o prompt com seguinte: python bot.py**
 
-1 - Na primeira execução do programa você deverá apertar ALT + X  com o cursor do mouse em cima dos ícones do Gartic. Os ícones são: LAPIS, ÍCONE da PALETA, CANTO INFERIOR ESQUERDO DA PALETA DE CORES ABERTA, PONTO INFERIOR DA BARRA DE LUMINOSIDADE DA PALETA DE CORES
+**1** - Na primeira execução do programa você deverá apertar **ALT + X**  com o cursor do mouse em cima dos ícones do Gartic. Os ícones são: 1 LAPIS, 2 ÍCONE da PALETA, 3 CANTO INFERIOR ESQUERDO DA PALETA DE CORES ABERTA, 4 PONTO INFERIOR DA BARRA DE LUMINOSIDADE DA PALETA DE CORES!
 ![Ibagem](https://i.imgur.com/QXivErT.png)
 
-Os números com as flechas em vermelho indicam onde vocÊ deve deixar o cursor do mouse cada vez que pressionar ALT+X, isso deve ser feito para o computador saber "onde fica" cada botão que ele deverá clicar ao fazer o desenho automaticamente
+Os quadrados em vermelho indicam onde vocÊ deve deixar o cursor do mouse cada vez que pressionar ALT+X, isso deve ser feito para o computador saber "onde fica" cada botão que ele deverá clicar ao fazer o desenho automaticamente
 
 
 
-2 - Pesquise no Google Imagens a imagem que você quer desenhar e use o programa chamado lightshot para selecionar seu clipart, após selecionar dê CTRL + C
+**2** - Pesquise no Google Imagens a imagem que você quer desenhar e use o programa chamado Lightshot para selecionar seu clipart, após selecionar dê CTRL + C
 
 
-3 - Após isso volte no Gartic posicione seu cursor do mouse onde quer começar o desenho e tecle CTRL + B
+**3** - Após isso volte no Gartic posicione seu cursor do mouse onde quer começar o desenho e tecle CTRL + B
 
 
 Ele vai processar imagem e em alguns segundos começa pintar ela. 
 
 
-5 - Para reiniciar aperte CTRL + i
+**5** - Para reiniciar o programa para pintar outro desenho aperta aperte CTRL + I e repita o processo a partir da etapa 2. A etapa 1 é configuração e só precisa ser feita apenas uma vez
 
 
 ___
