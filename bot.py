@@ -29,7 +29,7 @@ import winsound
 esc_hue = 360 / 180
 esc_sat = 100 / 100
 esc_val = 100 / 100
-
+notHaveFiles = 0
 canvas = [0,0]
 roda_paleta = [0,0]
 cruz_paleta = [0,0]
@@ -147,7 +147,7 @@ if os.path.exists('configs/barraY.log'):
     cruz_paleta[1] = ler_file('configs/cruzY.log')
     baixo_barra[0] = ler_file('configs/barraX.log')
     baixo_barra[1] = ler_file('configs/barraY.log')
-
+    notHaveFiles = 1
 
     winsound.Beep(1000, 200)
     print('\n\n\nBOT INICIADO COM SUCESSO!\n\n\nPor Bruno Silva\n\nwww.brunodasilva.com\n\n\nCopie seu desenho e aperta CTRL + B\n\n')
@@ -163,8 +163,12 @@ else:
 def on_triggered_screen():
     print("Imagem salva com sucesso!")
     im = ImageGrab.grabclipboard()
-    global filename
+    global notHaveFiles
     filename =('cliparts/%s.png' %  str(uuid.uuid4()))
+    if notHaveFiles == 1:
+        winsound.Beep(600, 1000)
+        print("Configure o BOT direito antes de dar CTRL + B")
+        restart_app()
     try:
         im.thumbnail((90,90), img.ANTIALIAS)
     except:
